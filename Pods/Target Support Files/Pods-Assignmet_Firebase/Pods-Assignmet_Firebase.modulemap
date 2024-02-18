@@ -1,0 +1,6 @@
+framework module Pods_Assignmet_Firebase {
+  umbrella header "Pods-Assignmet_Firebase-umbrella.h"
+
+  export *
+  module * { export * }
+}
